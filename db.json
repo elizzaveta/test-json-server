@@ -6,9 +6,21 @@
       "number": 111,
       "fake-number": "111",
       "boolean": true,
-      "text-array": ["1-item1", "1-item2", "1-item3"],
-      "number-array": [11, 12, 13],
-      "boolean-array": [true, true, false]
+      "text-array": [
+        {"item1":"1-item1"},
+        {"item2":"1-item2"},
+        {"item3":"1-item3"}
+      ],
+      "number-array": [
+        {"item1":11},
+        {"item2":12},
+        {"item3":13}
+      ],
+      "boolean-array": [
+        {"item1":true},
+        {"item2":true},
+        {"item3":true}
+      ]
     },
     {
       "id": 2,
@@ -16,9 +28,21 @@
       "number": 222,
       "fake-number": "222",
       "boolean": true,
-      "text-array": ["2-item1", "2-item2", "2-item3"],
-      "number-array": [21, 22, 23],
-      "boolean-array": [true, false, false]
+      "text-array": [
+        {"item1":"2-item1"},
+        {"item2":"2-item2"},
+        {"item3":"2-item3"}
+      ],
+      "number-array": [
+        {"item1":21},
+        {"item2":22},
+        {"item3":23}
+      ],
+      "boolean-array": [
+        {"item1":true},
+        {"item2":false},
+        {"item3":true}
+      ]
     },
     {
       "id": 3,
@@ -26,9 +50,21 @@
       "number": 333,
       "fake-number": "333",
       "boolean": false,
-      "text-array": ["3-item1", "3-item2", "3-item3"],
-      "number-array": [31, 32, 33],
-      "boolean-array": [false, false, false]
+      "text-array": [
+        {"item1":"3-item1"},
+        {"item2":"3-item2"},
+        {"item3":"3-item3"}
+      ],
+      "number-array": [
+        {"item1":31},
+        {"item2":32},
+        {"item3":33}
+      ],
+      "boolean-array": [
+        {"item1":false},
+        {"item2":false},
+        {"item3":false}
+      ]
     }
   ]
 }
