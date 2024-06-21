@@ -4,7 +4,7 @@
       "id": 1,
       "text": "text1",
       "number": 111,
-      "fake-number": "111",
+      "fakeNumber": "111",
       "boolean": true,
       "textArray": [
         {"item1":"1-item1"},
@@ -26,7 +26,7 @@
       "id": 2,
       "text": "text2",
       "number": 222,
-      "fake-number": "222",
+      "fakeNumber": "222",
       "boolean": true,
       "textArray": [
         {"item1":"2-item1"},
@@ -48,7 +48,7 @@
       "id": 3,
       "text": "text3",
       "number": 333,
-      "fake-number": "333",
+      "fakeNumber": "333",
       "boolean": false,
       "textArray": [
         {"item1":"3-item1"},
