@@ -1,0 +1,31 @@
+{
+  "result":[
+    {
+      "id": 1,
+      "text": "text1",
+      "number": 111,
+      "boolean": true,
+      "text-array": ["1-item1", "1-item2", "1-item3"],
+      "number-array": [11, 12, 13],
+      "boolean-array": [true, true, false]
+    },
+    {
+      "id": 2,
+      "text": "text2",
+      "number": 222,
+      "boolean": true,
+      "text-array": ["2-item1", "2-item2", "2-item3"],
+      "number-array": [21, 22, 23],
+      "boolean-array": [true, false, false]
+    },
+    {
+      "id": 3,
+      "text": "text3",
+      "number": 333,
+      "boolean": false,
+      "text-array": ["3-item1", "3-item2", "3-item3"],
+      "number-array": [31, 32, 33],
+      "boolean-array": [false, false, false]
+    }
+  ]
+}
