@@ -27,7 +27,7 @@
     {
       "id": 2,
       "text": "text2",
-      "number": 222,
+      "number": 22222222,
       "fakeNumber": "22222222",
       "boolean": true,
       "date": "22.06.2024",
@@ -51,7 +51,7 @@
     {
       "id": 3,
       "text": "text3",
-      "number": 333,
+      "number": 333,3333333,
       "fakeNumber": "333",
       "boolean": false,
       "date": "23.06.2024",
