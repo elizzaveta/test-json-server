@@ -51,8 +51,8 @@
     {
       "id": 3,
       "text": "text3",
-      "number": 333,3333333,
-      "fakeNumber": "333",
+      "number": 333.3333333,
+      "fakeNumber": "333,33333",
       "boolean": false,
       "date": "23.06.2024",
       "time":"13:43",
