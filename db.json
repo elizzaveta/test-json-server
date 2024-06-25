@@ -14,9 +14,9 @@
         {"item":"1-item3"}
       ],
       "numberArray": [
-        {"item":111111111},
-        {"item":122222222},
-        {"item":133333333.33}
+        {"item":1111111},
+        {"item":1222222},
+        {"item":1333333.33}
       ],
       "booleanArray": [
         {"item":true},
@@ -38,9 +38,9 @@
         {"item":"2-item3"}
       ],
       "numberArray": [
-        {"item":21222222.2222},
-        {"item":2222222.2},
-        {"item":233333333.3333}
+        {"item":212222.2222},
+        {"item":22222.2},
+        {"item":233333.3333}
       ],
       "booleanArray": [
         {"item":true},
@@ -62,9 +62,9 @@
         {"item":"3-item3"}
       ],
       "numberArray": [
-        {"item":3111111111},
-        {"item":3222222222.22},
-        {"item":3333333333}
+        {"item":3111111},
+        {"item":3222222.22},
+        {"item":3333333}
       ],
       "booleanArray": [
         {"item":false},
